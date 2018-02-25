@@ -11,6 +11,7 @@ namespace IntrotoCSharp
                 int i = 10;
                 int a = 20;
                 int b = 20;
+                int c = 30;
                 Console.WriteLine("Welcome to C# Programming");
                 Console.ReadKey();
 

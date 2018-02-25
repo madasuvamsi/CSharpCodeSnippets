@@ -8,8 +8,10 @@ namespace IntrotoCSharp
         {
             try
             {
+                int i = 10;
                 Console.WriteLine("Welcome to C# Programming");
                 Console.ReadKey();
+
             }
 
             catch

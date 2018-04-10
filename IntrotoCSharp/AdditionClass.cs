@@ -8,6 +8,7 @@ namespace IntrotoCSharp
 {
     class AdditionClass
     {
+        //Addition of two numbers
         static void Main(string[] args)
         {
             int a = 20;

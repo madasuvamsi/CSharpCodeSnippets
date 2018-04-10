@@ -6,6 +6,7 @@ namespace IntrotoCSharp
     {
         static void Main(string[] args)
         {
+            //This is try catch block for error handling
             try
             {
                 //adding the cooment line
